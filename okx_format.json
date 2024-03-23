@@ -1,0 +1,22 @@
+{
+  "symbol": "ETHUSDT",
+  "tickDirection": "ZeroPlusTick",
+  "price24hPcnt": "-0.003717",
+  "lastPrice": "3679.39",
+  "prevPrice24h": "3693.12",
+  "highPrice24h": "4285.02",
+  "lowPrice24h": "3408.33",
+  "prevPrice1h": "3650.94",
+  "markPrice": "3679.39",
+  "indexPrice": "3678.63",
+  "openInterest": "167787.21",
+  "openInterestValue": "617354582.60",
+  "turnover24h": "34222077136.5621",
+  "volume24h": "9236333.3900",
+  "nextFundingTime": "1710604800000",
+  "fundingRate": "0.0001",
+  "bid1Price": "3678.48",
+  "bid1Size": "804.65",
+  "ask1Price": "3679.39",
+  "ask1Size": "67.45"
+}
